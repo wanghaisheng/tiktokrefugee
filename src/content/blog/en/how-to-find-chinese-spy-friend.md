@@ -4,7 +4,7 @@ description: "Exploring the unexpected connections formed by TikTok users migrat
 author: "TikTok Refugee Team"
 date: 2025-01-13T10:00:00.000Z
 tags: ["tiktok", "rednote", "xiaohongshu", "social media", "community", "culture", "humor"]
-image: "/assets/images/blog/chinese-spy-friend.jpg"
+image: "@assets/images/blog/chinese-spy-friend.jpg"
 imageAlt: "A humorous image depicting two people connecting online, with spy-like elements and RedNote logos."
 ---
 
