@@ -4,7 +4,7 @@ description: "A detailed guide for former TikTok users on how to navigate and th
 author: "TikTok Refugee Team"
 date: 2025-01-13T10:00:00.000Z
 tags: ["tiktok", "rednote", "xiaohongshu", "guide", "social media", "apps", "chinese", "creators", "content creation", "verification", "community guidelines", "faq"]
-image: "/assets/images/blog/rednote-guide.jpg"
+image: "@assets/images/blog/rednote-guide.jpg"
 imageAlt: "A visually appealing collage of Xiaohongshu (RedNote) screenshots, showcasing diverse content and features."
 ---
 
