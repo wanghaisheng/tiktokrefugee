@@ -4,7 +4,7 @@ import i18n from "@astrolicious/i18n";
 import sitemap from "@astrojs/sitemap";
 
 export default defineConfig({
-  site: "https://www.yourwebsite.com", // update me!
+  site: "https://tiktokrefugee.cc", // update me!
   integrations: [
     icon(),
     i18n({

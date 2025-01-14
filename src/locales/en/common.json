@@ -1,9 +1,10 @@
 {
     "home": "Home",
     "about": "About",
-    "projects": "Projects",
-    "project-1": "Project 1",
-    "project-2": "Project 2",
+    "tutorials": "tutorials",
+    "rednote": "rednote",
+    "memes": "memes",
+    "refugee": "refugee",
     "blog": "Blog",
     "contact": "Contact",
     "theme-label": "Choisissez le thème",
@@ -30,12 +31,14 @@
     "about-page": {
         "landing": "About",
         "topper": "About",
-        "title": "About Company Title",
-        "p-1": "Our company was created In consequat tincidunt turpis sit amet imperdiet. Praesent Class officelan nonatoureanor mauris laoreet, iaculis libero quis. Curabitur et tempus eri consequat tincidunt turpis sit amet imperdiet. Praesent nonatourean olei aptent taciti sociosqu ad litora torquent per.",
-        "p-2": "We believe that In consequat tincidunt turpis sit amet imperdiet. Praesent Class officelan nonatoureanor mauris laoreet, iaculis libero quis. Curabitur et tempus eri consequat tincidunt turpis sit amet imperdiet. Praesent nonatourean olei aptent taciti sociosqu ad litora torquent per.",
-        "p-3": "It's important In consequat tincidunt turpis sit amet imperdiet.",
+        "title": "About TiktokRefugee.cc",
+        "p-1":"We are a team of social media analysts and community organizers, watching what happens when platforms are banned, and the communities that are affected by it. We started this site to help users and creators find the resources that they need.",
+        "p-2":"Our goal is to provide information, guidance, and a space for community to form during these difficult transitions. We aim to offer a non-biased approach, and highlight both the good and bad impacts of the loss of the platform. We hope to be a valuable resource for all of the 'TikTok Refugees' out there.",
+        "p-3":"We believe in the importance of a free and open internet, and in a user's ability to make their own choices, even in the face of a difficult situation. We also feel it is important to analyze all aspects of the social media landscape, both the positives, and the negatives.\nIt's important to understand the implications of any changes on social media platforms, and we want to provide a space for that to happen.",
+        "p-5":"We are committed to offering a wide variety of options and viewpoints.### Our Values:\n*   Staying curious about the ongoing situation\n*   Remaining optimistic about the ability of users to adapt to change\n*   Making a positive impact by helping users make better informed decisions\n*   Never settling, and aiming for the highest quality in our analysis and advice.",
+
         "rank": "CEO-Founder",
-        "cta": "Our projects"
+        "cta": "Our tutorials"
     },
     "footer": {
         "information": "Information",

@@ -1,68 +1,76 @@
 {
-    "layout":{
-      "title":"Pixel Perfect Websites",
-      "description":"Meta description for the page"
+  "layout": {
+    "title": "TikTok Refugee - Find Your New Online Home",
+    "description": "Explore alternative platforms, find your community, and adapt to the post-TikTok world."
+  },
+  "hero": {
+    "topper": "Adapting to Change",
+    "title": {
+      "1": "Navigating the TikTok Exodus",
+      "2": "Your Guide to a Post-TikTok World"
     },
-    "hero":{
-      "topper":"Advanced Kit",
-      "title":{
-        "1":"Advanced Astro v4",
-        "2":"i18n"
-      },
-      "p1":"This advanced kit includes a pre-configured Astro environment, which allows for repeated components, centralized data and greater room to scale as your clients grow. This kit is specially designed for customers who want a multi-language site, and is therefore configured with Astro's internationalization tools (i18n) for two languages: English and French.",
-      "cta1":"Explore More",
-      "cta2":"Get in touch"
+    "p1": "Discover resources, communities, and alternative platforms designed for content creators and users affected by the TikTok bans and restrictions. Find support, adapt your content, and maintain your community on a platform that fits your needs.",
+    "cta1": "Explore Platforms",
+    "cta2": "Join the Community"
+  },
+  "services": [
+    {
+      "heading": "RedNote Platform Guides",
+      "p": "Detailed guides and resources for various TikTok alternative platforms, including setup, features and audiences."
     },
-    "services":[
-      {
-        "heading":"Service 1",
-        "p":"Talk about the service with keywords people will be searching for it by. Keep it 1-2 sentences."
-      },
-      {
-        "heading":"Service 2",
-        "p":"Talk about the service with keywords people will be searching for it by. Keep it 1-2 sentences."
-      },
-      {
-        "heading":"Service 3",
-        "p":"Talk about the service with keywords people will be searching for it by. Keep it 1-2 sentences."
-      }
-    ],
-    "about":{
-      "topper":"About Us",
-      "title":"About Company Title",
-      "p1":"Our company was created In consequat tincidunt turpis sit amet imperdiet. Praesent Class officelan nonatoureanor mauris laoreet, iaculis libero quis. Curabitur et tempus eri consequat tincidunt turpis sit amet imperdiet. Praesent nonatourean olei aptent taciti sociosqu ad litora torquent per.",
-      "p2":"We believe that In consequat tincidunt turpis sit amet imperdiet. Praesent Class officelan nonatoureanor mauris laoreet, iaculis libero quis. Curabitur et tempus eri consequat tincidunt turpis sit amet imperdiet. Praesent nonatourean olei aptent taciti sociosqu ad litora torquent per.",
-      "p3":"It's important In consequat tincidunt turpis sit amet imperdiet.",
-      "rank":"CEO-Founder",
-      "cta":"More about us"
+
+    {
+      "heading": "memes and hashtags",
+
+      "p": "Detailed guides about real wife contents and cat ,memes etc."
     },
-    "extra":{
-      "topper":"SEO Ranking",
-      "title":"Talk about a main service keyword",
-      "p1":"Our main service In consequat tincidunt turpis sit amet imperdiet. Praesent Class officelan nonatoureanor mauris laoreet, iaculis libero quis. Curabitur et tempus eri consequat tincidunt turpis sit amet imperdiet. Praesent nonatourean olei aptent taciti sociosqu ad litora torquent per.",
-      "p2":"Research shows that In consequat tincidunt turpis sit amet imperdiet. Praesent Class officelan nonatoureanor mauris laoreet, iaculis libero quis. Curabitur et tempus eri consequat tincidunt turpis sit amet imperdiet. Praesent nonatourean olei aptent taciti sociosqu ad litora torquent per."
+
+
+      {
+      "heading": "Creator Strategies",
+      "p": "Practical guidance for content creators on how to adapt and maintain their audiences on different platforms."
+    },
+     {
+      "heading": "Tech and Community Insights",
+       "p":"Explore the tech behind the bans, the use of proxy methods, and the movement of online communities."
+     }
+  ],
+  "about": {
+    "topper": "About Us",
+    "title": "The TikTok Refugee Project",
+    "p1": "We are a group of social media analysts and community organizers, watching what happens when platforms are banned, and the communities that are affected by it. We started this site to help users and creators find the resources that they need.",
+    "p2": "Our goal is to provide information, guidance, and a space for community to form during these difficult transitions. We aim to offer a non-biased approach, and highlight both the good and bad impacts of the loss of the platform.",
+    "p3": "We hope to be a valuable resource for all of the 'TikTok Refugees' out there.",
+    "rank": "Founding Team",
+    "cta": "More About Our Mission"
+  },
+   "extra": {
+        "topper": "Staying Connected",
+        "title": "Building Connections and Community",
+        "p1": "Our goal is to help users and content creators transition to new platforms while maintaining their audiences and communities. Use the 'Discover Platforms' section to start your search.",
+       "p2": "We are regularly updating our guides, news, and analysis, so check back often to stay informed on the most up to date information."
     },
     "portfolio":{
-      "topper":"Our Portfolio",
-      "title":"Et orci volutpat, back up generator installations",
-      "cta":"View Our Products"
+      "topper":"Discover Platforms",
+      "title":"A listing of potential alternative platforms",
+      "cta":"Start Exploring"
     },
-    "reviews":{
-      "topper":"Our Reviews",
-      "title":"Words from our customers",
-      "p":"Our clients are In consequat tincidunt turpis sit amet imperdiet. Praesent Class officelan nonatoureanor mauris laoreet, iaculis libero quis. Curabitur et tempus eri consequat tincidunt turpis sit amet imperdiet. Praesent nonatourean olei aptent taciti sociosqu ad litora torquent per.",
-      "reviews":[
-        {
-          "review":"Dictum dolor, nullam morbi sem in auctor proin. Consequat dolor habitasse nam sed tempor.",
-          "name":"John Doe",
-          "rank":"Homeowner"
-        },
-        {
-          "review":"Dictum dolor, nullam morbi sem in auctor proin. Consequat dolor habitasse nam sed tempor.",
-          "name":"Jane Doe",
-          "rank":"Homeowner"
-        }
-      ],
-      "cta":"Our Reviews"
+ "reviews":{
+        "topper":"User Testimonials",
+        "title":"From Users Like You",
+        "p":"While this is a new project, we will update this section with reviews from real users who are utilising our services.",
+        "reviews":[
+            {
+                "review":"The guides and the information on this site is incredibly helpful!",
+                "name":"A User",
+                "rank":"Content Creator"
+            },
+            {
+                "review":"I have found the content on this page to be very insightful, and to be beneficial.",
+                "name":"Another User",
+                "rank":"Former TikTok User"
+            }
+         ],
+        "cta":"Read All Reviews"
     }
-  }
+}

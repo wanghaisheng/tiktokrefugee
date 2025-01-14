@@ -10,17 +10,28 @@ const navData = [
     children: []
   },
   {
-    key: "projects",
+    key: "tutorials",
     children: [
       {
-        key: "project-1",
-        url: "/projects/project-1/"
+        key: "rednote",
+        url: "/tutorials/rednote/"
       },
-      {
-        key: "project-2",
-        url: "/projects/project-2/"
-      }
+      // {
+        // key: "tutorial-2",
+        // url: "/tutorials/tutorial-2/"
+      // }
     ]
+  },
+
+  {
+    key: "memes",
+    children: [{
+
+      key: "refugee",
+      url: "/memes/refugee/"
+
+    }]
+
   },
   {
     key: "blog",
