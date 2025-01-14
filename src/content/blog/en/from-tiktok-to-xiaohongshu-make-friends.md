@@ -4,7 +4,7 @@ description: "An exploration of the humorous and unexpected journey of TikTok us
 author: "TikTok Refugee Team"
 date: 2025-01-14T11:00:00.000Z
 tags: ["tiktok", "rednote", "xiaohongshu", "community", "friendship", "culture", "humor", "social media"]
-image: "/assets/images/blog/tiktok-rednote-friends.jpg"
+image: "@assets/images/blog/tiktok-rednote-friends.jpg"
 imageAlt: "A playful graphic showing a TikTok user connecting with a RedNote user"
 ---
 
