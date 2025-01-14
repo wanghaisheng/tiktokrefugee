@@ -4,7 +4,7 @@ description: "Exploring the journey of TikTok users as they navigate Xiaohongshu
 author: "TikTok Refugee Team"
 date: 2025-01-14T12:00:00.000Z
 tags: ["tiktok", "rednote", "xiaohongshu", "language", "mandarin", "community"]
-image: "/assets/images/blog/mandarin-buddies.jpg"
+image: "@assets/images/blog/mandarin-buddies.jpg"
 imageAlt: "A graphic depicting a group of people learning Mandarin, with RedNote icons in the background."
 ---
 
